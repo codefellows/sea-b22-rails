@@ -1,8 +1,8 @@
 # Javier Soto
 
-_Code Fellows Student_
+_Code Fellows' Fellow Student_
 
-[![github](https://s3.amazonaws.com/fjs6_bucket/octocat.png)](http://github.com/sotoseattle)  [![linkedin](https://s3.amazonaws.com/fjs6_bucket/linkedin.png)](http://www.linkedin.com/in/sotoseattle/)
+[![linkedin](https://s3.amazonaws.com/fjs6_bucket/linkedin.png)](http://www.linkedin.com/in/sotoseattle/)   [![github](https://s3.amazonaws.com/fjs6_bucket/octocat.png)](http://github.com/sotoseattle)  [![g+](https://s3.amazonaws.com/fjs6_bucket/80-google-plus-512.png)](https://plus.google.com/115259840547329745852)
 
 If something defines me today is that I am in the midsts of change.
 
